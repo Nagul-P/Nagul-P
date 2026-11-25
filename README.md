@@ -1,4 +1,14 @@
-## Hi there 👋
+Hi, I’m Nagul P—a 1st-year B.Tech AI & Machine Learning student at Saveetha Engineering College on a mission to build rock-solid tech foundations and explore where artificial intelligence can take us next.
+
+Right now, I’m diving deep into the fundamentals of Python while experimenting with modern web technologies and cutting-edge AI tools to turn fresh ideas into working projects.
+
+What Fuels My Journey:
+⚡ Mastering the Basics: Sharpening my logic, problem-solving, and Python fundamentals every single day.
+🌐 Building for the Web: Crafting clean interfaces and backend logic using Django, HTML, CSS, and the basics of React.
+🌦️ Learning by Doing: Built an API-powered Weather Monitor to bring live, real-world data into an interactive app.
+🤖 Chasing What’s Next: Constantly testing new AI tools, workflows, and emerging tech to learn faster and build smarter.
+
+I’m early in my engineering journey, hungry to learn, and always up for connecting with fellow builders, mentors, and tech enthusiasts. Let’s connect and create something cool!## Hi there 👋
 
 <!--
 **Nagul-P/Nagul-P** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
